@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# mitocarta
+# mitocarta 3.0
 
 <!-- badges: start -->
 
@@ -11,6 +11,8 @@ This package contains the updated [`mitocarta` 3.0 dataset](https://www.broadins
 also contains some utility functions for simple analyses.
 
 It was forked from and inspired by https://github.com/matthewhirschey/mitocarta
+
+One major difference is this contains not only the dataset of mitochondrial genes but also the mitocarta pathways as well.
 
 ## Installation
 
