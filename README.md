@@ -7,6 +7,8 @@
 
 <!-- badges: end -->
 
+## UNDER CONSTRUCTION, NOT READY TO BE USED YET.
+
 This package contains the updated [`mitocarta` 3.0 dataset](https://www.broadinstitute.org/mitocarta/mitocarta30-inventory-mammalian-mitochondrial-proteins-and-pathways). This package
 also contains some utility functions for simple analyses.
 
