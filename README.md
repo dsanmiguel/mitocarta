@@ -17,13 +17,6 @@ One major difference is this contains not only the dataset of mitochondrial gene
 ## Installation
 
 ``` r
-install.packages("mitocarta")
-```
-
-So in the meantime, use the development version from
-[GitHub](https://github.com/) with:
-
-``` r
 # install.packages("devtools")
 devtools::install_github("dsanmiguel/mitocarta")
 ```
