@@ -7,16 +7,12 @@
 
 <!-- badges: end -->
 
-This package contains the `mitocarta` dataset. It accompanies a
-workshop-style class that provides an introduction to the emerging field
-of Data Science in R, including data analysis and visualization, with a
-particular focus on its utility for biological insight. This package
+This package contains the updated [`mitocarta` 3.0 dataset](https://www.broadinstitute.org/mitocarta/mitocarta30-inventory-mammalian-mitochondrial-proteins-and-pathways). This package
 also contains some utility functions for simple analyses.
 
-## Installation
+It was forked from and inspired by https://github.com/matthewhirschey/mitocarta
 
-You **cannot** yet install the released version of tidybiology from
-[CRAN](https://CRAN.R-project.org) with:
+## Installation
 
 ``` r
 install.packages("mitocarta")
@@ -27,7 +23,7 @@ So in the meantime, use the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("hirscheylab/mitocarta")
+devtools::install_github("dsanmiguel/mitocarta")
 ```
 
 ## Example
